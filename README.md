@@ -9,9 +9,8 @@ A practical, industry-focused journey from Python foundations to **Machine Learn
 | Progress item | Current status |
 |---|---|
 | Introduction | 🟩 ✅ Completed — 19 Sep 2026 |
-| Python sessions 1–4 | 🟩 ✅ Completed — 3, 4, 10, 11 Oct 2026 |
-| Current doubt session | 🟨 🟡 In progress — Wednesday, 14 Oct 2026 |
-| Next main classes | ⬜ Planned — Saturday 17 Oct and Sunday 18 Oct 2026 |
+| Python sessions 1–4 | 🟩 ✅ Completed — 3, 4, 10, 11, 17 Oct 2026 |
+| Next main classes | ⬜ Planned — Saturday 24 Oct and Sunday 25 Oct 2026 |
 
 **Status legend:** 🟩 ✅ Completed · 🟨 🟡 In progress · ⬜ Planned
 
