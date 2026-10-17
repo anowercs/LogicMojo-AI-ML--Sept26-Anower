@@ -34,11 +34,11 @@ Each week is a group of rows: the week row is the heading, and the classes under
 | **Week 2** | **10–11 Oct 2026** | | | |
 | ✅ | 10 Oct 2026 | &nbsp;&nbsp;&nbsp;&nbsp; **Session 3: Python Essentials** | Functions (definition, parameters, return, scope), lambda, decorators, \*args/\*\*kwargs. Project: reusable utility functions, API handlers | 🟩 ✅ Completed |
 | ✅ | 11 Oct 2026 | &nbsp;&nbsp;&nbsp;&nbsp; **Session 4: Data Structures** | Lists, tuples, sets, dictionaries, nested structures, comprehensions. Project: data parsing, hash tables, cache implementation | 🟩 ✅ Completed |
-| ✅ | 14 Oct 2026 | &nbsp;&nbsp;&nbsp;&nbsp; **Doubt-Clearing Session** | Questions from weekend classes, assignment debugging, revision, project support | 🟨 🟡 In progress |
+| ❌ | 14 Oct 2026 | &nbsp;&nbsp;&nbsp;&nbsp; **Doubt-Clearing Session** | Questions from weekend classes, assignment debugging, revision, project support | ❌❌ |
 | **Week 3** | **17–18 Oct 2026** | | | |
-| | 17 Oct 2026 | &nbsp;&nbsp;&nbsp;&nbsp; **Session 5: Python Essentials** | Exception handling (try/except/finally), file I/O, JSON/CSV reading, string formatting. Project: data loaders, config parsers, error-resilient scripts | ⬜ Planned |
-| | 18 Oct 2026 | &nbsp;&nbsp;&nbsp;&nbsp; **Session 6: Python Essentials** | OOP basics (classes, inheritance, polymorphism), regex, assertions, pytest basics. Project: class-based ML models, data validators, unit tests | ⬜ Planned |
-| | 21 Oct 2026 | &nbsp;&nbsp;&nbsp;&nbsp; **Doubt-Clearing Session** | Questions from weekend classes, assignment debugging, revision, project support | ⬜ Planned |
+| ✅ | 17 Oct 2026 | &nbsp;&nbsp;&nbsp;&nbsp; **Session 5: Python Essentials** | Exception handling (try/except/finally), file I/O, JSON/CSV reading, string formatting. Project: data loaders, config parsers, error-resilient scripts | 🟩 ✅ Completed  |
+| 🟨 | 18 Oct 2026 | &nbsp;&nbsp;&nbsp;&nbsp; **Session 6: Python Essentials** | OOP basics (classes, inheritance, polymorphism), regex, assertions, pytest basics. Project: class-based ML models, data validators, unit tests | 🟨 🟡 In progress |
+| 🟨 | 21 Oct 2026 | &nbsp;&nbsp;&nbsp;&nbsp; **Doubt-Clearing Session** | Questions from weekend classes, assignment debugging, revision, project support | 🟨 🟡 In progress |
 | **Week 4** | **24–25 Oct 2026** | | | |
 | | 24 Oct 2026 | &nbsp;&nbsp;&nbsp;&nbsp; **Session 7: Statistics I: Fundamentals** | Descriptive stats (mean, median, variance, std), distributions (normal, binomial, Poisson), PDF/CDF, z-score. Project: data profiling, anomaly detection thresholds | ⬜ Planned |
 | | 25 Oct 2026 | &nbsp;&nbsp;&nbsp;&nbsp; **Session 8: Statistics II: Inference & Experimentation** | Hypothesis testing (z-test, t-test, chi-square), p-values, confidence intervals, multiple testing corrections. Project: A/B test analysis, feature impact validation | ⬜ Planned |
