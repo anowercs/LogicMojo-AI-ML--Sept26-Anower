@@ -32,10 +32,10 @@ Each week is a group of rows: the week row is the heading, and the classes under
 | ✅  | 07 Oct 2026 | &nbsp;&nbsp;&nbsp;&nbsp; **Doubt-Clearing Session** | Questions from weekend classes, assignment debugging, revision, project support | 🟩 ✅ Completed |
 | **Week 2** | **10–11 Oct 2026** | | | |
 | ✅ | 10 Oct 2026 | &nbsp;&nbsp;&nbsp;&nbsp; **Session 3: Python Essentials** | Functions (definition, parameters, return, scope), lambda, decorators, \*args/\*\*kwargs. Project: reusable utility functions, API handlers | 🟩 ✅ Completed |
-| ✅ | 11 Oct 2026 | &nbsp;&nbsp;&nbsp;&nbsp; **Session 4: Data Structures** | Lists, tuples, sets, dictionaries, nested structures, comprehensions. Project: data parsing, hash tables, cache implementation | 🟩 ✅ Completed |
+| ✅ | 11 Oct 2026 | &nbsp;&nbsp;&nbsp;&nbsp; **Session 4: Python Essentials** | Functions (definition, parameters, return, scope), lambda, decorators, \*args/\*\*kwargs. Project: reusable utility functions, API handlers  | 🟩 ✅ Completed |
 | ❌ | 14 Oct 2026 | &nbsp;&nbsp;&nbsp;&nbsp; **Doubt-Clearing Session** | Questions from weekend classes, assignment debugging, revision, project support | ❌❌ |
 | **Week 3** | **17–18 Oct 2026** | | | |
-| ✅ | 17 Oct 2026 | &nbsp;&nbsp;&nbsp;&nbsp; **Session 5: Python Essentials** | Exception handling (try/except/finally), file I/O, JSON/CSV reading, string formatting. Project: data loaders, config parsers, error-resilient scripts | 🟩 ✅ Completed  |
+| ✅ | 17 Oct 2026 | &nbsp;&nbsp;&nbsp;&nbsp; **Session 5: Data Structures** | Lists, tuples, sets, dictionaries, nested structures, comprehensions. Project: data parsing, hash tables, cache implementation | 🟩 ✅ Completed  |
 | 🟨 | 18 Oct 2026 | &nbsp;&nbsp;&nbsp;&nbsp; **Session 6: Python Essentials** | OOP basics (classes, inheritance, polymorphism), regex, assertions, pytest basics. Project: class-based ML models, data validators, unit tests | 🟨 🟡 In progress |
 | 🟨 | 21 Oct 2026 | &nbsp;&nbsp;&nbsp;&nbsp; **Doubt-Clearing Session** | Questions from weekend classes, assignment debugging, revision, project support | 🟨 🟡 In progress |
 | **Week 4** | **24–25 Oct 2026** | | | |
