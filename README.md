@@ -36,7 +36,7 @@ Each week is a group of rows: the week row is the heading, and the classes under
 | ❌ | 14 Oct 2026 | &nbsp;&nbsp;&nbsp;&nbsp; **Doubt-Clearing Session** | Questions from weekend classes, assignment debugging, revision, project support | ❌❌ |
 | **Week 3** | **17–18 Oct 2026** | | | |
 | ✅ | 17 Oct 2026 | &nbsp;&nbsp;&nbsp;&nbsp; **Session 5: Data Structures** | Lists, tuples, sets, dictionaries, nested structures, comprehensions. Project: data parsing, hash tables, cache implementation | 🟩 ✅ Completed  |
-| 🟨 | 18 Oct 2026 | &nbsp;&nbsp;&nbsp;&nbsp; **Session 6: Python Essentials** | OOP basics (classes, inheritance, polymorphism), regex, assertions, pytest basics. Project: class-based ML models, data validators, unit tests | 🟨 🟡 In progress |
+| ✅ | 18 Oct 2026 | &nbsp;&nbsp;&nbsp;&nbsp; **Session 6: Python Essentials** | OOP basics (classes, inheritance, polymorphism), regex, assertions, pytest basics. Project: class-based ML models, data validators, unit tests | 🟩 ✅ Completed  |
 | 🟨 | 21 Oct 2026 | &nbsp;&nbsp;&nbsp;&nbsp; **Doubt-Clearing Session** | Questions from weekend classes, assignment debugging, revision, project support | 🟨 🟡 In progress |
 | **Week 4** | **24–25 Oct 2026** | | | |
 | | 24 Oct 2026 | &nbsp;&nbsp;&nbsp;&nbsp; **Session 7: Statistics I: Fundamentals** | Descriptive stats (mean, median, variance, std), distributions (normal, binomial, Poisson), PDF/CDF, z-score. Project: data profiling, anomaly detection thresholds | ⬜ Planned |
