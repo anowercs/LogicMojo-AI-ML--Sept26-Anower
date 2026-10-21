@@ -122,7 +122,7 @@ print(a[5])      # m
 print(a[0:4])    # welc
 print(a[1:4])    # elc
 print(a[-10:-4]) #  logic
-print(a[-5:-1])  # icmo
+print(a[-5:-1])  # cmoj
 ```
 
 ### Indexing
