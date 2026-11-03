@@ -39,8 +39,8 @@ Each week is a group of rows: the week row is the heading, and the classes under
 | ✅ | 18 Oct 2026 | &nbsp;&nbsp;&nbsp;&nbsp; **Session 6: Python Essentials** | OOP basics (classes, inheritance, polymorphism), regex, assertions, pytest basics. Project: class-based ML models, data validators, unit tests | 🟩 ✅ Completed  |
 | 🟨 | 21 Oct 2026 | &nbsp;&nbsp;&nbsp;&nbsp; **Doubt-Clearing Session** | Questions from weekend classes, assignment debugging, revision, project support | 🟨 🟡 In progress |
 | **Week 4** | **24–25 Oct 2026** | | | |
-| | 24 Oct 2026 | &nbsp;&nbsp;&nbsp;&nbsp; **Session 7: Statistics I: Fundamentals** | Descriptive stats (mean, median, variance, std), distributions (normal, binomial, Poisson), PDF/CDF, z-score. Project: data profiling, anomaly detection thresholds | ⬜ Planned |
-| | 25 Oct 2026 | &nbsp;&nbsp;&nbsp;&nbsp; **Session 8: Statistics II: Inference & Experimentation** | Hypothesis testing (z-test, t-test, chi-square), p-values, confidence intervals, multiple testing corrections. Project: A/B test analysis, feature impact validation | ⬜ Planned |
+| ✅ | 24 Oct 2026 | &nbsp;&nbsp;&nbsp;&nbsp; **Session 7: Statistics I: Fundamentals** | Descriptive stats (mean, median, variance, std), distributions (normal, binomial, Poisson), PDF/CDF, z-score. Project: data profiling, anomaly detection thresholds | 🟩 ✅ Completed |
+| ❌ | 25 Oct 2026 | &nbsp;&nbsp;&nbsp;&nbsp; **Session 8: Statistics II: Inference & Experimentation** | Hypothesis testing (z-test, t-test, chi-square), p-values, confidence intervals, multiple testing corrections. Project: A/B test analysis, feature impact validation | ❌ |
 | | 28 Oct 2026 | &nbsp;&nbsp;&nbsp;&nbsp; **Doubt-Clearing Session** | Questions from weekend classes, assignment debugging, revision, project support | ⬜ Planned |
 | **Week 5** | **31 Oct–01 Nov 2026** | | | |
 | | 31 Oct 2026 | &nbsp;&nbsp;&nbsp;&nbsp; **Session 9: Statistics III: Advanced Testing** | Bayesian inference, causal inference intro, Simpson's paradox, sample size calculation, statistical power. Project: online experiment design, causal analysis | ⬜ Planned |
