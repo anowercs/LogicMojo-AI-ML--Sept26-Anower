@@ -39,7 +39,7 @@ Each week is a group of rows: the week row is the heading, and the classes under
 | ✅ | 18 Oct 2026 | &nbsp;&nbsp;&nbsp;&nbsp; **Session 6: Data Structures** | Dictionaries, and 44 questions | 🟩 ✅ Completed  |
 | ❌ | 21 Oct 2026 | &nbsp;&nbsp;&nbsp;&nbsp; **Doubt-Clearing Session** | Questions from weekend classes, assignment debugging, revision, project support | ❌  |
 | **Week 4** | **24–25 Oct 2026** | | | |
-| ✅ | 24 Oct 2026 | &nbsp;&nbsp;&nbsp;&nbsp; **Session 7: Statistics I: Fundamentals** | Descriptive stats (mean, median, variance, std), distributions (normal, binomial, Poisson), PDF/CDF, z-score. Project: data profiling, anomaly detection thresholds | 🟩 ✅ Completed |
+| ✅ | 24 Oct 2026 | &nbsp;&nbsp;&nbsp;&nbsp; **Session 7: Try Catch handling Exception and File** | Try Catch Introduction, Files reading, writing | 🟩 ✅ Completed |
 | ❌ | 25 Oct 2026 | &nbsp;&nbsp;&nbsp;&nbsp; **Session 8: Statistics II: Inference & Experimentation** | Hypothesis testing (z-test, t-test, chi-square), p-values, confidence intervals, multiple testing corrections. Project: A/B test analysis, feature impact validation | ❌ |
 | ❌ | 28 Oct 2026 | &nbsp;&nbsp;&nbsp;&nbsp; **Doubt-Clearing Session** | Questions from weekend classes, assignment debugging, revision, project support | ❌ |
 | **Week 5** | **31 Oct–01 Nov 2026** | | | |
