@@ -1,4 +1,4 @@
-# Python Data Structures: Dictionary, Set Operations & Dictionary Comprehension
+# Python Data Structures: Dictionary
 
 **Class Date:** 18 October  
 **Topics:** Python Dictionary, Dictionary Methods, Set Symmetric Difference, `zip()`, Dictionary Comprehension and Nested Dictionary.
