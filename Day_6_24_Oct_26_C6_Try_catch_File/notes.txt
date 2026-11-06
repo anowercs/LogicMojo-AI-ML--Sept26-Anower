@@ -1,0 +1,11 @@
+
+
+
+File handling:
+
+	r - read and existing file
+	w - write, creates a files or override the content
+	a - append content to the end of the file
+	x - to create a new file , if the file already exist it will raise an error (file exists)
+	
+	
