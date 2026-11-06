@@ -1672,40 +1672,6 @@ This exercise combines the main concepts from the entire session.
 
 ---
 
-# PART 7: LEARNING PROGRESS
-
-### Exception Handling
-
-- [ ] Understand what exceptions are.
-- [ ] Practice `try` and `except`.
-- [ ] Understand `ZeroDivisionError`.
-- [ ] Understand `ValueError`.
-- [ ] Practice multiple exception handlers.
-- [ ] Understand `raise`.
-- [ ] Understand `except ... as e`.
-- [ ] Practice `else` and `finally`.
-- [ ] Complete Q1–Q5.
-
-### File Handling
-
-- [ ] Understand file modes: `r`, `w`, `a`, `x`.
-- [ ] Practice creating files.
-- [ ] Practice reading files.
-- [ ] Practice writing files.
-- [ ] Practice appending content.
-- [ ] Understand `read()`, `readline()` and `readlines()`.
-- [ ] Practice `with open()`.
-- [ ] Handle `FileNotFoundError`.
-- [ ] Handle `FileExistsError`.
-- [ ] Complete Q6–Q15.
-
-### Advanced Practice
-
-- [ ] Complete Q16–Q20.
-- [ ] Build the Student Management System.
-- [ ] Practice file validation independently.
-- [ ] Understand CSV file handling.
-- [ ] Practice Pandas DataFrame operations.
 
 ---
 
