@@ -43,7 +43,7 @@ Each week is a group of rows: the week row is the heading, and the classes under
 | ❌ | 25 Oct 2026 | &nbsp;&nbsp;&nbsp;&nbsp; **Session 8: Statistics II: Inference & Experimentation** | Hypothesis testing (z-test, t-test, chi-square), p-values, confidence intervals, multiple testing corrections. Project: A/B test analysis, feature impact validation | ❌ |
 | ❌ | 28 Oct 2026 | &nbsp;&nbsp;&nbsp;&nbsp; **Doubt-Clearing Session** | Questions from weekend classes, assignment debugging, revision, project support | ❌ |
 | **Week 5** | **31 Oct–01 Nov 2026** | | | |
-| ✅ | 31 Oct 2026 | &nbsp;&nbsp;&nbsp;&nbsp; **Session 9: Live Practice Session** | Bayesian inference, causal inference intro, Simpson's paradox, sample size calculation, statistical power. Project: online experiment design, causal analysis | 🟩 ✅ Completed  |
+| ✅ | 31 Oct 2026 | &nbsp;&nbsp;&nbsp;&nbsp; **Session 9: Live Practice Session** | There is 40 questions that was live practice session | 🟩 ✅ Completed  |
 | ✅ | 01 Nov 2026 | &nbsp;&nbsp;&nbsp;&nbsp; **Session 10: OOP Class, Object** | Pearson and Spearman correlation, covariance, regression basics, confounding variables, interaction effects. Project: feature importance, relationship discovery | 🟩 ✅ Completed  |
 | | 04 Nov 2026 | &nbsp;&nbsp;&nbsp;&nbsp; **Doubt-Clearing Session** | Questions from weekend classes, assignment debugging, revision, project support | ⬜ Planned |
 | **Week 6** | **07–08 Nov 2026** | | | |
