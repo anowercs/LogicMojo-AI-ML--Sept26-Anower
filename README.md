@@ -6,16 +6,6 @@ A practical, industry-focused journey from Python foundations to **Machine Learn
 
 ## 📊 Course Progress Dashboard
 
-| Progress item | Current status |
-|---|---|
-| Introduction | 🟩 ✅ Completed — 19 Sep 2026 |
-| Python sessions 1–4 | 🟩 ✅ Completed — 3, 4, 10, 11, 17 Oct 2026 |
-| Next main classes | ⬜ Planned — Saturday 24 Oct and Sunday 25 Oct 2026 |
-
-**Status legend:** 🟩 ✅ Completed · 🟨 🟡 In progress · ⬜ Planned
-
-**Weekly rhythm:** Saturday class (9:00 AM–12:00 PM) · Sunday class (9:00 AM–12:00 PM) · Wednesday doubt-clearing session
-
 ---
 
 ## 🗓️ Weekly Schedule
