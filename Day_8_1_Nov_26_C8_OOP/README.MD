@@ -469,3 +469,435 @@ POLYMORPHISM= Same interface, different behaviour
 **Learning objective:** Understand how to organize Python programs using classes and objects, reuse code through inheritance, and implement different behaviours through polymorphism.
 
 *LogicMojo – Python OOP Live Practice Session*
+
+
+# Python OOP — 20 Practice Assignments
+
+**Object-Oriented Programming | Beginner to Advanced | Python + Machine Learning**
+
+## 📚 Overview
+
+These 20 practical assignments are designed to build a strong foundation in Python Object-Oriented Programming (OOP).
+
+**Topics covered:**
+- Classes and Objects
+- Constructors (`__init__`)
+- Attributes and Methods
+- Instance and Class Variables
+- Encapsulation
+- Inheritance
+- Polymorphism
+- Abstraction
+- Exception Handling
+- Composition
+- Machine Learning with OOP
+
+**Total Questions:** 20  
+**Difficulty Levels:** 4  
+**Primary Language:** Python
+
+---
+
+# Level 1 — Beginner (Questions 1–5)
+
+**Focus:** Class, Object, Attributes, Methods and Constructor.
+
+### 1. Student Class
+
+Create a class called `Student`.
+
+Requirements:
+- Store student name.
+- Store student age.
+- Store university name.
+- Create an object and print all information.
+
+### 2. Employee Information
+
+Create a class called `Employee`.
+
+Requirements:
+- Employee name
+- Employee ID
+- Monthly salary
+
+Create three employee objects with different information.
+
+### 3. Calculator
+
+Create a class called `Calculator`.
+
+Create four methods:
+- `add(a, b)`
+- `subtract(a, b)`
+- `multiply(a, b)`
+- `divide(a, b)`
+
+Create an object and perform all four operations. Handle division by zero.
+
+### 4. Rectangle Area
+
+Create a class called `Rectangle`.
+
+Requirements:
+- Store length and width.
+- Create a method `calculate_area()`.
+- Create another method `calculate_perimeter()`.
+
+Formula:
+
+Area = length × width
+
+Perimeter = 2 × (length + width)
+
+### 5. Car Information
+
+Create a class called `Car`.
+
+Attributes:
+- Brand
+- Model
+- Year
+- Speed
+
+Methods:
+- `start()`
+- `accelerate()`
+- `brake()`
+- `show_info()`
+
+Create two different car objects.
+
+---
+
+# Level 2 — Intermediate (Questions 6–10)
+
+**Focus:** Instance variables, Class variables, Encapsulation and Methods.
+
+### 6. Bank Account System
+
+Create a class called `BankAccount`.
+
+Attributes:
+- Account holder
+- Account number
+- Balance
+
+Methods:
+- `deposit(amount)`
+- `withdraw(amount)`
+- `check_balance()`
+
+Requirements:
+- Do not allow negative deposits.
+- Do not allow withdrawals greater than the balance.
+- Use encapsulation for the balance.
+
+### 7. University Student Management
+
+Create a class called `University`.
+
+Class variable:
+- University name = "Sapienza University"
+
+Instance variables:
+- Student name
+- Student ID
+- Department
+
+Create five student objects.
+
+Print the university name and each student's information.
+
+### 8. Product Inventory
+
+Create a class called `Product`.
+
+Attributes:
+- Product name
+- Price
+- Quantity
+
+Methods:
+- `calculate_total_value()`
+- `update_quantity()`
+- `apply_discount()`
+
+Example:
+
+```python
+product = Product("Laptop", 1000, 5)
+```
+
+Calculate the total inventory value.
+
+### 9. Library Management System
+
+Create two classes:
+
+**Book:**
+- Title
+- Author
+- ISBN
+- Availability
+
+**Library:**
+- Store multiple books.
+- Add a book.
+- Borrow a book.
+- Return a book.
+- Display available books.
+
+### 10. Employee Salary Management
+
+Create a class called `Employee`.
+
+Attributes:
+- Name
+- Basic salary
+- Bonus
+
+Methods:
+- `calculate_total_salary()`
+- `display_salary()`
+
+Use a class variable to count how many employee objects have been created.
+
+---
+
+# Level 3 — Advanced OOP (Questions 11–15)
+
+**Focus:** Inheritance, Polymorphism, Abstraction and Method Overriding.
+
+### 11. Animal Inheritance
+
+Create a parent class called `Animal`.
+
+Methods:
+- `eat()`
+- `sleep()`
+- `sound()`
+
+Create three child classes:
+- Dog
+- Cat
+- Cow
+
+Override the `sound()` method in each child class.
+
+### 12. Vehicle Management System
+
+Create a parent class called `Vehicle`.
+
+Attributes:
+- Brand
+- Model
+- Speed
+
+Methods:
+- `start()`
+- `stop()`
+
+Create child classes:
+- Car
+- Motorcycle
+- Truck
+
+Each child class should have its own additional method.
+
+### 13. Shape Polymorphism
+
+Create a parent class called `Shape`.
+
+Create three child classes:
+- Circle
+- Rectangle
+- Triangle
+
+Each class should have a method called:
+
+```python
+calculate_area()
+```
+
+Use polymorphism to calculate the area of all three shapes.
+
+### 14. Payment System — Abstraction
+
+Use Python's `abc` module.
+
+Create an abstract class called `Payment`.
+
+Abstract method:
+
+```python
+process_payment()
+```
+
+Create three child classes:
+- CreditCardPayment
+- PayPalPayment
+- BankTransferPayment
+
+Each child class must implement its own payment method.
+
+### 15. Online Shopping System
+
+Create three classes:
+
+**Customer:**
+- Name
+- Email
+
+**Product:**
+- Name
+- Price
+- Stock
+
+**ShoppingCart:**
+- Add product.
+- Remove product.
+- Calculate total price.
+- Display cart items.
+
+Requirements:
+- Prevent adding products with zero stock.
+- Support multiple products.
+- Calculate the final amount.
+
+---
+
+# Level 4 — Real-world Python and ML OOP (Questions 16–20)
+
+**Focus:** Reusable classes, composition, exception handling and ML integration.
+
+### 16. Student Grade Prediction
+
+Create a class called `Student`.
+
+Attributes:
+- Name
+- Study hours
+- Previous exam score
+
+Methods:
+- `calculate_average()`
+- `predict_score()`
+- `display_result()`
+
+For this exercise, use a simple formula to estimate the score. This is not actual machine learning.
+
+### 17. Dataset Management System
+
+Create a class called `DatasetManager`.
+
+Requirements:
+- Load a CSV file using pandas.
+- Display the first five rows.
+- Display dataset shape.
+- Check missing values.
+- Remove duplicate rows.
+
+Use exception handling for:
+- `FileNotFoundError`
+- `pd.errors.ParserError`
+- Invalid dataset conditions.
+
+### 18. Machine Learning Model Class
+
+Create a class called `MLModel`.
+
+Requirements:
+- Initialize a `LinearRegression` model.
+- Create a `train()` method.
+- Create a `predict()` method.
+- Create an `evaluate()` method.
+
+Use:
+
+```python
+from sklearn.linear_model import LinearRegression
+from sklearn.metrics import mean_squared_error
+```
+
+Train your model using sample data.
+
+### 19. Multiple ML Models
+
+Create a parent class called `BaseModel`.
+
+Methods:
+- `train(X, y)`
+- `predict(X)`
+
+Create two child classes:
+
+- `LinearRegressionModel`
+- `RandomForestModel`
+
+Each child class should use its own Scikit-learn algorithm.
+
+Requirements:
+- Override training and prediction methods if necessary.
+- Use polymorphism to call the models.
+- Compare their predictions.
+
+### 20. Mini Project — Student Performance Prediction System
+
+Build a complete student performance prediction system using OOP.
+
+Your system should contain at least four classes:
+
+| Class | Responsibility |
+|---|---|
+| `Student` | Store student information |
+| `DatasetManager` | Load and preprocess data |
+| `MLModel` | Train and predict |
+| `PerformanceAnalyzer` | Analyze model results |
+
+Requirements:
+
+1. Load a student dataset using pandas.
+2. Handle missing values.
+3. Separate features and target.
+4. Split training and testing data.
+5. Train a Linear Regression model.
+6. Predict exam scores.
+7. Calculate Mean Squared Error.
+8. Handle exceptions.
+9. Organize everything using OOP.
+10. Display the final results.
+
+---
+
+# Recommended Learning Order
+
+| Level | Questions | Main Topics |
+|---|---|---|
+| Beginner | 1–5 | Classes, Objects, Constructors |
+| Intermediate | 6–10 | Encapsulation, Variables, Methods |
+| Advanced | 11–15 | Inheritance, Polymorphism, Abstraction |
+| ML Projects | 16–20 | Pandas, Scikit-learn, Exception Handling |
+
+# Important Instructions
+
+1. Write the code yourself without looking at solutions.
+2. Test each class by creating multiple objects.
+3. Try invalid inputs and handle exceptions.
+4. Explain what `self`, `__init__()` and each method does.
+5. For questions 11–20, try implementing the same concept in Java too.
+
+## Learning Goal
+
+By completing these 20 assignments, you should be able to:
+
+- Understand and implement Python OOP concepts.
+- Design reusable classes and objects.
+- Apply the four pillars of OOP.
+- Build small real-world applications.
+- Organize Machine Learning projects using OOP.
+- Understand similarities and differences between Python and Java OOP.
+
+**Challenge:** Complete all 20 assignments independently. Focus on understanding the logic rather than memorizing the code.
+
+**Practice makes programming stronger!** 🚀
