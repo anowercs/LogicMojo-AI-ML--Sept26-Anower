@@ -44,7 +44,7 @@ Each week is a group of rows: the week row is the heading, and the classes under
 | ❌ | 28 Oct 2026 | &nbsp;&nbsp;&nbsp;&nbsp; **Doubt-Clearing Session** | Questions from weekend classes, assignment debugging, revision, project support | ❌ |
 | **Week 5** | **31 Oct–01 Nov 2026** | | | |
 | ✅ | 31 Oct 2026 | &nbsp;&nbsp;&nbsp;&nbsp; **Session 9: Live Practice Session** | There is 40 questions that was live practice session | 🟩 ✅ Completed  |
-| ✅ | 01 Nov 2026 | &nbsp;&nbsp;&nbsp;&nbsp; **Session 10: OOP Class, Object** | Pearson and Spearman correlation, covariance, regression basics, confounding variables, interaction effects. Project: feature importance, relationship discovery | 🟩 ✅ Completed  |
+| ✅ | 01 Nov 2026 | &nbsp;&nbsp;&nbsp;&nbsp; **Session 10: OOP Class, Object** | Class , Object, Abstruct, polymorphism | 🟩 ✅ Completed  |
 | | 04 Nov 2026 | &nbsp;&nbsp;&nbsp;&nbsp; **Doubt-Clearing Session** | Questions from weekend classes, assignment debugging, revision, project support | ⬜ Planned |
 | **Week 6** | **07–08 Nov 2026** | | | |
 | | 07 Nov 2026 | &nbsp;&nbsp;&nbsp;&nbsp; **Session 11: Math I: Calculus & Optimization** | Derivatives, chain rule, gradients, loss functions, gradient descent, convexity. Project: model training, hyperparameter tuning | ⬜ Planned |
