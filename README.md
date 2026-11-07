@@ -35,10 +35,10 @@ Each week is a group of rows: the week row is the heading, and the classes under
 | **Week 5** | **31 Oct–01 Nov 2026** | | | |
 | ✅ | 31 Oct 2026 | &nbsp;&nbsp;&nbsp;&nbsp; **Session 9: Live Practice Session** | There is 40 questions that was live practice session | 🟩 ✅ Completed  |
 | ✅ | 01 Nov 2026 | &nbsp;&nbsp;&nbsp;&nbsp; **Session 10: OOP Class, Object** | Class , Object, Abstruct, polymorphism | 🟩 ✅ Completed  |
-| | 04 Nov 2026 | &nbsp;&nbsp;&nbsp;&nbsp; **Doubt-Clearing Session** | Questions from weekend classes, assignment debugging, revision, project support | ⬜ Planned |
+| ❌ | 04 Nov 2026 | &nbsp;&nbsp;&nbsp;&nbsp; **Doubt-Clearing Session** | Questions from weekend classes, assignment debugging, revision, project support | ❌ |
 | **Week 6** | **07–08 Nov 2026** | | | |
-| | 07 Nov 2026 | &nbsp;&nbsp;&nbsp;&nbsp; **Session 11: Math I: Calculus & Optimization** | Derivatives, chain rule, gradients, loss functions, gradient descent, convexity. Project: model training, hyperparameter tuning | ⬜ Planned |
-| | 08 Nov 2026 | &nbsp;&nbsp;&nbsp;&nbsp; **Session 12: Math II: Linear Algebra & Matrices** | Vectors, matrices, matrix operations, eigenvalues/eigenvectors, matrix decomposition, linear transformations. Project: dimensionality reduction, transformers, embeddings | ⬜ Planned |
+| ❌ | 07 Nov 2026 | &nbsp;&nbsp;&nbsp;&nbsp; **Session 11: Math I: Calculus & Optimization** | Derivatives, chain rule, gradients, loss functions, gradient descent, convexity. Project: model training, hyperparameter tuning | ❌ |
+| ❌ | 08 Nov 2026 | &nbsp;&nbsp;&nbsp;&nbsp; **Session 12: Math II: Linear Algebra & Matrices** | Vectors, matrices, matrix operations, eigenvalues/eigenvectors, matrix decomposition, linear transformations. Project: dimensionality reduction, transformers, embeddings | ❌ |
 | | 11 Nov 2026 | &nbsp;&nbsp;&nbsp;&nbsp; **Doubt-Clearing Session** | Questions from weekend classes, assignment debugging, revision, project support | ⬜ Planned |
 | **Week 7** | **14–15 Nov 2026** | | | |
 | | 14 Nov 2026 | &nbsp;&nbsp;&nbsp;&nbsp; **Session 13: Probability & Bayesian Methods** | Bayes theorem, conditional probability, Naive Bayes, probabilistic graphical models, sampling methods. Project: probabilistic reasoning, recommendation systems | ⬜ Planned |
