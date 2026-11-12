@@ -26,7 +26,7 @@ Each week is a group of rows: the week row is the heading, and the classes under
 | ❌ | 14 Oct 2026 | &nbsp;&nbsp;&nbsp;&nbsp; **Doubt-Clearing Session** | Questions from weekend classes, assignment debugging, revision, project support | ❌❌ |
 | **Week 3** | **17–18 Oct 2026** | | | |
 | ✅ | 17 Oct 2026 | &nbsp;&nbsp;&nbsp;&nbsp; [**Session 5: Data Structures**](https://github.com/anowercs/LogicMojo-AI-ML--Sept26-Anower/tree/main/Day_4_17_Oct_26_C4_DSA) | len() Counts elements, type() Checks data type, min() Minimum value, max() Maximum value, sum() Adds values, sorted() Sorts elements, list() Converts to list, tuple() Converts to tuple, set() Converts to set, dict() Creates dictionary, enumerate() Returns index and value, zip() Combines iterables | 🟩 ✅ Completed  |
-| ✅ | 18 Oct 2026 | &nbsp;&nbsp;&nbsp;&nbsp; **Session 6: Data Structures** | Dictionaries, and 44 questions | 🟩 ✅ Completed  |
+| ✅ | 18 Oct 2026 | &nbsp;&nbsp;&nbsp;&nbsp; [**Session 6: Data Structures**](https://github.com/anowercs/LogicMojo-AI-ML--Sept26-Anower/blob/main/Day_5_18_Oct_26_C5_DS_2/README.MD) | Dictionaries, and 44 questions | 🟩 ✅ Completed  |
 | ❌ | 21 Oct 2026 | &nbsp;&nbsp;&nbsp;&nbsp; **Doubt-Clearing Session** | Questions from weekend classes, assignment debugging, revision, project support | ❌  |
 | **Week 4** | **24–25 Oct 2026** | | | |
 | ✅ | 24 Oct 2026 | &nbsp;&nbsp;&nbsp;&nbsp; **Session 7: Try Catch handling Exception and File** | Try Catch Introduction, Files reading, writing | 🟩 ✅ Completed |
