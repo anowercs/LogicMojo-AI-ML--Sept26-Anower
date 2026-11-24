@@ -105,9 +105,9 @@ Dataset B = [20, 50, 80, 110, 140]
 
 Both datasets have a mean of 80:
 
-\[
+$$
 Mean(A)=Mean(B)=80
-\]
+$$
 
 However, Dataset B is much more spread out. The mean alone does not describe the full distribution of the data.
 
@@ -119,50 +119,50 @@ However, Dataset B is much more spread out. The mean alone does not describe the
 
 Mean is calculated by dividing the sum of all observations by the number of observations.
 
-\[
+$$
 \boxed{\bar{x}=\frac{\sum_{i=1}^{n}x_i}{n}}
-\]
+$$
 
 | Symbol | Meaning |
 |---|---|
-| \(\bar{x}\) | Sample mean |
-| \(x_i\) | An individual observation |
-| \(\sum\) | Summation: add the observations |
-| \(n\) | Number of observations |
+| $\bar{x}$ | Sample mean |
+| $x_i$ | An individual observation |
+| $\sum$ | Summation: add the observations |
+| $n$ | Number of observations |
 
 For an entire population, the notation is:
 
-\[
+$$
 \boxed{\mu=\frac{\sum_{i=1}^{N}x_i}{N}}
-\]
+$$
 
-Here, \(\mu\) is the population mean and \(N\) is the population size.
+Here, $\mu$ is the population mean and $N$ is the population size.
 
 ## 3.1 Professor's example — marks
 
 🧑‍🏫 The professor uses:
 
-\[
+$$
 [60,70,80,90,100]
-\]
+$$
 
 **Step 1 — Add all observations**
 
-\[
+$$
 60+70+80+90+100=400
-\]
+$$
 
 **Step 2 — Count the observations**
 
-\[
+$$
 n=5
-\]
+$$
 
 **Step 3 — Divide the sum by the count**
 
-\[
+$$
 \bar{x}=\frac{400}{5}=\boxed{80}
-\]
+$$
 
 **Result: Mean = 80.**
 
@@ -179,13 +179,13 @@ n=5
 | E | 2,000 |
 | **Total** | **5,000** |
 
-\[
+$$
 AOV=\frac{500+700+800+1000+2000}{5}
-\]
+$$
 
-\[
+$$
 AOV=\frac{5000}{5}=\boxed{1000}
-\]
+$$
 
 The average order value is 1,000.
 
@@ -199,13 +199,13 @@ The average order value is 1,000.
 
 The new average is:
 
-\[
+$$
 AOV=\frac{500+700+800+1000+2000+1000000}{6}
-\]
+$$
 
-\[
+$$
 AOV=\frac{1005000}{6}=\boxed{167500}
-\]
+$$
 
 Compare the two results:
 
@@ -226,15 +226,15 @@ The notes also show 40% of the AOV:
 
 Before adding the outlier:
 
-\[
+$$
 \frac{40}{100}\times1000=\boxed{400}
-\]
+$$
 
 After adding the outlier:
 
-\[
+$$
 \frac{40}{100}\times167500=\boxed{67000}
-\]
+$$
 
 This illustrates how an outlier can strongly affect a business calculation based on the average.
 
@@ -288,15 +288,15 @@ Sorted:   [5, 9, 10, 18, 25]
 
 There are five observations. The middle position is:
 
-\[
+$$
 \frac{n+1}{2}=\frac{5+1}{2}=3
-\]
+$$
 
 The third value is 10.
 
-\[
+$$
 \boxed{Median=10}
-\]
+$$
 
 ## 4.2 Even number of observations
 
@@ -313,25 +313,25 @@ Sorted:   [2, 5, 9, 10, 18, 25]
 
 The two middle values are 9 and 10.
 
-\[
+$$
 Median=\frac{9+10}{2}=\boxed{9.5}
-\]
+$$
 
 ## 4.3 Median formulas
 
-For odd \(n\):
+For odd $n$:
 
-\[
+$$
 \boxed{Median=X_{\left(\frac{n+1}{2}\right)}}
-\]
+$$
 
-For even \(n\):
+For even $n$:
 
-\[
+$$
 \boxed{Median=\frac{X_{(n/2)}+X_{(n/2+1)}}{2}}
-\]
+$$
 
-Here, \(X_{(i)}\) means the value at position \(i\) **after sorting**.
+Here, $X_{(i)}$ means the value at position $i$ **after sorting**.
 
 ## 4.4 Why is median useful when outliers exist?
 
@@ -398,9 +398,9 @@ Mode is the value that occurs most frequently.
 
 The professor's example is:
 
-\[
+$$
 [2,3,4,5,6,7,8,7,6,5,5,1]
-\]
+$$
 
 Count the occurrences:
 
@@ -417,9 +417,9 @@ Count the occurrences:
 
 The value 5 appears three times, more than any other value.
 
-\[
+$$
 \boxed{Mode=5}
-\]
+$$
 
 ## 5.1 Types of mode
 
@@ -480,19 +480,19 @@ They describe how spread out the data is.
 
 Range is the difference between the maximum and minimum values.
 
-\[
+$$
 \boxed{Range=X_{\max}-X_{\min}}
-\]
+$$
 
 Example:
 
-\[
+$$
 [10,20,30,40,50]
-\]
+$$
 
-\[
+$$
 Range=50-10=\boxed{40}
-\]
+$$
 
 Python:
 
@@ -518,9 +518,9 @@ Class B = [20, 50, 80, 110, 140]
 
 Both classes have the same mean:
 
-\[
+$$
 Mean(A)=Mean(B)=80
-\]
+$$
 
 However, the observations in Class B are more spread out.
 
@@ -528,11 +528,11 @@ However, the observations in Class B are more spread out.
 
 For Class A:
 
-\[
+$$
 Mean=80
-\]
+$$
 
-| Observation \(x_i\) | Deviation \(x_i-80\) | Squared deviation |
+| Observation $x_i$ | Deviation $x_i-80$ | Squared deviation |
 |---:|---:|---:|
 | 70 | -10 | 100 |
 | 75 | -5 | 25 |
@@ -549,47 +549,47 @@ Squaring makes every squared deviation non-negative.
 
 🧑‍🏫 **The professor's Class A calculation divides by 5, so this is population variance.**
 
-\[
+$$
 \boxed{\sigma^2=\frac{\sum_{i=1}^{N}(x_i-\mu)^2}{N}}
-\]
+$$
 
 Where:
 
 | Symbol | Meaning |
 |---|---|
-| \(\sigma^2\) | Population variance |
-| \(x_i\) | Individual observation |
-| \(\mu\) | Population mean |
-| \(N\) | Number of population observations |
+| $\sigma^2$ | Population variance |
+| $x_i$ | Individual observation |
+| $\mu$ | Population mean |
+| $N$ | Number of population observations |
 
 For Class A:
 
-\[
+$$
 \sigma^2=\frac{100+25+0+25+100}{5}
-\]
+$$
 
-\[
+$$
 \sigma^2=\frac{250}{5}=\boxed{50}
-\]
+$$
 
 ### Sample variance — important additional distinction
 
 When observations are a sample used to estimate the variance of a larger population, the usual unbiased sample variance is:
 
-\[
+$$
 \boxed{s^2=\frac{\sum_{i=1}^{n}(x_i-\bar{x})^2}{n-1}}
-\]
+$$
 
 For the same Class A values:
 
-\[
+$$
 s^2=\frac{250}{5-1}=\boxed{62.5}
-\]
+$$
 
 **Do not confuse the denominators:**
 
-- Population variance: divide by \(N\).
-- Sample variance: divide by \(n-1\).
+- Population variance: divide by $N$.
+- Sample variance: divide by $n-1$.
 
 ### Class B variance — additional calculation
 
@@ -597,35 +597,35 @@ The professor writes Class B and its mean (80), while the detailed variance tabl
 
 Class B:
 
-\[
+$$
 [20,50,80,110,140]
-\]
+$$
 
 Mean:
 
-\[
+$$
 \mu=80
-\]
+$$
 
 Deviations:
 
-\[
+$$
 [-60,-30,0,30,60]
-\]
+$$
 
 Squared deviations:
 
-\[
+$$
 [3600,900,0,900,3600]
-\]
+$$
 
-\[
+$$
 \sigma_B^2=\frac{3600+900+0+900+3600}{5}
-\]
+$$
 
-\[
+$$
 \boxed{\sigma_B^2=1800}
-\]
+$$
 
 | Measure | Class A | Class B |
 |---|---:|---:|
@@ -640,45 +640,45 @@ Squared deviations:
 
 Standard deviation is the square root of variance.
 
-\[
+$$
 \boxed{\sigma=\sqrt{\sigma^2}}
-\]
+$$
 
 For population data:
 
-\[
+$$
 \boxed{\sigma=\sqrt{\frac{\sum(x_i-\mu)^2}{N}}}
-\]
+$$
 
 For sample data:
 
-\[
+$$
 \boxed{s=\sqrt{\frac{\sum(x_i-\bar{x})^2}{n-1}}}
-\]
+$$
 
 ### Professor's Class A example
 
 The professor calculates:
 
-\[
+$$
 Variance=50
-\]
+$$
 
 Therefore:
 
-\[
+$$
 SD=\sqrt{50}
-\]
+$$
 
-\[
+$$
 \boxed{SD\approx7.07}
-\]
+$$
 
 For Class B, using the additional variance calculation above:
 
-\[
+$$
 SD_B=\sqrt{1800}\approx42.43
-\]
+$$
 
 | Measure | Class A | Class B |
 |---|---:|---:|
@@ -722,7 +722,7 @@ Sample variance: 62.5
 Sample SD: 7.905694150420948
 ```
 
-`ddof=1` tells NumPy to divide by \(n-1\). The default `ddof=0` divides by \(n\).
+`ddof=1` tells NumPy to divide by $n-1$. The default `ddof=0` divides by $n$.
 
 ## 6.5 AI/ML connection
 
@@ -733,9 +733,9 @@ Sample SD: 7.905694150420948
 
 ### Standardisation (Z-score scaling)
 
-\[
+$$
 \boxed{z=\frac{x-\mu}{\sigma}}
-\]
+$$
 
 Python:
 
@@ -776,16 +776,16 @@ A normal distribution is a continuous, symmetric, bell-shaped probability distri
 
 A normal distribution is described by:
 
-- \(\mu\): mean.
-- \(\sigma\): standard deviation.
+- $\mu$: mean.
+- $\sigma$: standard deviation.
 
 Notation:
 
-\[
+$$
 \boxed{X\sim N(\mu,\sigma^2)}
-\]
+$$
 
-**Important:** The second parameter in this notation is variance (\(\sigma^2\)), not standard deviation.
+**Important:** The second parameter in this notation is variance ($\sigma^2$), not standard deviation.
 
 ## 7.3 Professor's 68–95–99.7 rule
 
@@ -795,9 +795,9 @@ For normally distributed data:
 
 | Interval | Approximate percentage |
 |---|---:|
-| \(\mu\pm1\sigma\) | 68% |
-| \(\mu\pm2\sigma\) | 95% |
-| \(\mu\pm3\sigma\) | 99.7% |
+| $\mu\pm1\sigma$ | 68% |
+| $\mu\pm2\sigma$ | 95% |
+| $\mu\pm3\sigma$ | 99.7% |
 
 ### Graph — empirical rule
 
@@ -807,43 +807,43 @@ For normally distributed data:
 
 🧑‍🏫 The professor uses:
 
-\[
+$$
 Mean=70,\qquad SD=10
-\]
+$$
 
 **Within 1 standard deviation:**
 
-\[
+$$
 70-10=60
-\]
+$$
 
-\[
+$$
 70+10=80
-\]
+$$
 
 Approximately 68% of observations lie between 60 and 80.
 
 **Within 2 standard deviations:**
 
-\[
+$$
 70-2(10)=50
-\]
+$$
 
-\[
+$$
 70+2(10)=90
-\]
+$$
 
 Approximately 95% lie between 50 and 90.
 
 **Within 3 standard deviations:**
 
-\[
+$$
 70-3(10)=40
-\]
+$$
 
-\[
+$$
 70+3(10)=100
-\]
+$$
 
 Approximately 99.7% lie between 40 and 100.
 
@@ -857,19 +857,19 @@ Approximately 99.7% lie between 40 and 100.
 
 A Z-score tells us how many standard deviations an observation is away from the mean.
 
-\[
+$$
 \boxed{z=\frac{x-\mu}{\sigma}}
-\]
+$$
 
 Example:
 
-\[
+$$
 x=90,\quad\mu=70,\quad\sigma=10
-\]
+$$
 
-\[
+$$
 z=\frac{90-70}{10}=\boxed{2}
-\]
+$$
 
 The observation is two standard deviations above the mean.
 
@@ -935,11 +935,11 @@ plt.show()
 
 The professor writes the binomial probability formula:
 
-\[
+$$
 \boxed{P(X=k)=\binom{n}{k}p^k(1-p)^{n-k}}
-\]
+$$
 
-A binomial distribution calculates the probability of obtaining exactly \(k\) successes in \(n\) independent trials, when each trial has the same probability of success.
+A binomial distribution calculates the probability of obtaining exactly $k$ successes in $n$ independent trials, when each trial has the same probability of success.
 
 ## 8.1 Four conditions
 
@@ -953,71 +953,71 @@ Example: Tossing a fair coin five times.
 - Trial: one coin toss.
 - Success: Head.
 - Failure: Tail.
-- \(n=5\).
-- \(p=0.5\).
+- $n=5$.
+- $p=0.5$.
 
 ## 8.2 Understand every symbol
 
 | Symbol | Meaning |
 |---|---|
-| \(P(X=k)\) | Probability of exactly \(k\) successes |
-| \(n\) | Total number of trials |
-| \(k\) | Required number of successes |
-| \(p\) | Probability of success |
-| \(1-p\) | Probability of failure |
-| \(\binom nk\) | Number of ways to choose the success positions |
+| $P(X=k)$ | Probability of exactly $k$ successes |
+| $n$ | Total number of trials |
+| $k$ | Required number of successes |
+| $p$ | Probability of success |
+| $1-p$ | Probability of failure |
+| $\binom nk$ | Number of ways to choose the success positions |
 
 Combination formula:
 
-\[
+$$
 \boxed{\binom nk=\frac{n!}{k!(n-k)!}}
-\]
+$$
 
 Factorial example:
 
-\[
+$$
 5!=5\times4\times3\times2\times1=120
-\]
+$$
 
 ## 8.3 Worked example — exactly 2 Heads in 5 tosses
 
 Given:
 
-\[
+$$
 n=5,\quad k=2,\quad p=0.5
-\]
+$$
 
 Apply the formula:
 
-\[
+$$
 P(X=2)=\binom52(0.5)^2(0.5)^3
-\]
+$$
 
 Calculate the combination:
 
-\[
+$$
 \binom52=\frac{5!}{2!3!}=10
-\]
+$$
 
 Calculate the powers:
 
-\[
+$$
 (0.5)^2=0.25
-\]
+$$
 
-\[
+$$
 (0.5)^3=0.125
-\]
+$$
 
 Multiply:
 
-\[
+$$
 P(X=2)=10\times0.25\times0.125
-\]
+$$
 
-\[
+$$
 \boxed{P(X=2)=0.3125=31.25\%}
-\]
+$$
 
 ### Graph — binomial distribution
 
@@ -1025,31 +1025,31 @@ P(X=2)=10\times0.25\times0.125
 
 ## 8.4 Mean, variance and standard deviation
 
-\[
+$$
 \boxed{Mean=np}
-\]
+$$
 
-\[
+$$
 \boxed{Variance=np(1-p)}
-\]
+$$
 
-\[
+$$
 \boxed{SD=\sqrt{np(1-p)}}
-\]
+$$
 
-For \(n=5,p=0.5\):
+For $n=5,p=0.5$:
 
-\[
+$$
 Mean=5(0.5)=2.5
-\]
+$$
 
-\[
+$$
 Variance=5(0.5)(0.5)=1.25
-\]
+$$
 
-\[
+$$
 SD=\sqrt{1.25}\approx1.118
-\]
+$$
 
 ## 8.5 Python implementation
 
@@ -1082,10 +1082,10 @@ Useful terminology:
 
 | Wording | Expression | SciPy function |
 |---|---|---|
-| Exactly k | \(P(X=k)\) | `binom.pmf(k,n,p)` |
-| At most k | \(P(X\leq k)\) | `binom.cdf(k,n,p)` |
-| More than k | \(P(X>k)\) | `binom.sf(k,n,p)` |
-| At least k | \(P(X\geq k)\) | `binom.sf(k-1,n,p)` |
+| Exactly k | $P(X=k)$ | `binom.pmf(k,n,p)` |
+| At most k | $P(X\leq k)$ | `binom.cdf(k,n,p)` |
+| More than k | $P(X>k)$ | `binom.sf(k,n,p)` |
+| At least k | $P(X\geq k)$ | `binom.sf(k-1,n,p)` |
 
 ## 8.6 AI/ML connection
 
@@ -1102,9 +1102,9 @@ Useful terminology:
 
 The professor writes the Poisson formula:
 
-\[
+$$
 \boxed{P(X=k)=\frac{e^{-\lambda}\lambda^k}{k!}}
-\]
+$$
 
 Poisson distribution models the number of events occurring in a fixed interval of time, space or another measurement, under suitable assumptions.
 
@@ -1112,17 +1112,17 @@ The professor's example asks:
 
 **How many calls arrive in one minute?**
 
-## 9.1 Understand lambda (\(\lambda\))
+## 9.1 Understand lambda ($\lambda$)
 
-\(\lambda\) represents the expected number of events per interval.
+$\lambda$ represents the expected number of events per interval.
 
 Example:
 
 A call centre receives an average of 4 calls per minute.
 
-\[
+$$
 \lambda=4
-\]
+$$
 
 We want to calculate the probability of exactly 2 calls in one minute.
 
@@ -1130,49 +1130,49 @@ We want to calculate the probability of exactly 2 calls in one minute.
 
 | Symbol | Meaning |
 |---|---|
-| \(P(X=k)\) | Probability of exactly k events |
-| \(k\) | Required number of events |
-| \(\lambda\) | Average number of events per interval |
-| \(e\) | Euler's constant, approximately 2.71828 |
-| \(k!\) | Factorial of k |
+| $P(X=k)$ | Probability of exactly k events |
+| $k$ | Required number of events |
+| $\lambda$ | Average number of events per interval |
+| $e$ | Euler's constant, approximately 2.71828 |
+| $k!$ | Factorial of k |
 
 ## 9.3 Worked example — exactly 2 calls
 
 Given:
 
-\[
+$$
 \lambda=4,\qquad k=2
-\]
+$$
 
 Substitute:
 
-\[
+$$
 P(X=2)=\frac{e^{-4}\times4^2}{2!}
-\]
+$$
 
 Calculate:
 
-\[
+$$
 4^2=16,\qquad2!=2
-\]
+$$
 
-\[
+$$
 P(X=2)=\frac{e^{-4}\times16}{2}
-\]
+$$
 
-\[
+$$
 P(X=2)=8e^{-4}
-\]
+$$
 
-Since \(e^{-4}\approx0.0183156\):
+Since $e^{-4}\approx0.0183156$:
 
-\[
+$$
 P(X=2)\approx8(0.0183156)
-\]
+$$
 
-\[
+$$
 \boxed{P(X=2)\approx0.1465=14.65\%}
-\]
+$$
 
 ### Graph — Poisson distribution
 
@@ -1182,19 +1182,19 @@ P(X=2)\approx8(0.0183156)
 
 A special property of the Poisson distribution:
 
-\[
+$$
 \boxed{Mean=\lambda}
-\]
+$$
 
-\[
+$$
 \boxed{Variance=\lambda}
-\]
+$$
 
-\[
+$$
 \boxed{SD=\sqrt{\lambda}}
-\]
+$$
 
-For \(\lambda=4\):
+For $\lambda=4$:
 
 - Mean = 4
 - Variance = 4
@@ -1261,11 +1261,11 @@ The professor compares the distributions by type and by the question each one an
 
 | Property | Normal | Binomial | Poisson |
 |---|---|---|---|
-| Parameters | \(\mu,\sigma\) | \(n,p\) | \(\lambda\) |
+| Parameters | $\mu,\sigma$ | $n,p$ | $\lambda$ |
 | Type | Continuous | Discrete | Discrete |
-| Possible values | Real numbers | \(0,1,\ldots,n\) | \(0,1,2,\ldots\) |
-| Mean | \(\mu\) | \(np\) | \(\lambda\) |
-| Variance | \(\sigma^2\) | \(np(1-p)\) | \(\lambda\) |
+| Possible values | Real numbers | $0,1,\ldots,n$ | $0,1,2,\ldots$ |
+| Mean | $\mu$ | $np$ | $\lambda$ |
+| Variance | $\sigma^2$ | $np(1-p)$ | $\lambda$ |
 
 ## 10.2 How to choose a distribution
 
@@ -1290,31 +1290,31 @@ What are you modelling?
 
 Poisson can approximate a binomial distribution when:
 
-- \(n\) is large.
-- \(p\) is small.
-- \(np\) remains moderate.
+- $n$ is large.
+- $p$ is small.
+- $np$ remains moderate.
 
 The approximation uses:
 
-\[
+$$
 \boxed{\lambda=np}
-\]
+$$
 
 Example:
 
-\[
+$$
 n=1000,\qquad p=0.002
-\]
+$$
 
-\[
+$$
 \lambda=1000(0.002)=2
-\]
+$$
 
 Therefore:
 
-\[
+$$
 Binomial(1000,0.002)\approx Poisson(2)
-\]
+$$
 
 This is an approximation, not an exact identity.
 
@@ -1402,31 +1402,31 @@ pip install numpy scipy matplotlib scikit-learn
 
 | Concept | Formula |
 |---|---|
-| Mean | \(\bar{x}=\frac{\sum x_i}{n}\) |
-| Median, odd n | \(X_{((n+1)/2)}\), after sorting |
-| Median, even n | \(\frac{X_{(n/2)}+X_{(n/2+1)}}{2}\) |
+| Mean | $\bar{x}=\frac{\sum x_i}{n}$ |
+| Median, odd n | $X_{((n+1)/2)}$, after sorting |
+| Median, even n | $\frac{X_{(n/2)}+X_{(n/2+1)}}{2}$ |
 | Mode | Most frequent value |
-| Range | \(X_{\max}-X_{\min}\) |
-| Population variance | \(\sigma^2=\frac{\sum(x_i-\mu)^2}{N}\) |
-| Sample variance | \(s^2=\frac{\sum(x_i-\bar{x})^2}{n-1}\) |
-| Population SD | \(\sigma=\sqrt{\sigma^2}\) |
-| Sample SD | \(s=\sqrt{s^2}\) |
-| Z-score | \(z=\frac{x-\mu}{\sigma}\) |
+| Range | $X_{\max}-X_{\min}$ |
+| Population variance | $\sigma^2=\frac{\sum(x_i-\mu)^2}{N}$ |
+| Sample variance | $s^2=\frac{\sum(x_i-\bar{x})^2}{n-1}$ |
+| Population SD | $\sigma=\sqrt{\sigma^2}$ |
+| Sample SD | $s=\sqrt{s^2}$ |
+| Z-score | $z=\frac{x-\mu}{\sigma}$ |
 
 ## Probability distributions
 
 | Concept | Formula |
 |---|---|
-| Normal distribution | \(X\sim N(\mu,\sigma^2)\) |
+| Normal distribution | $X\sim N(\mu,\sigma^2)$ |
 | Empirical rule | 68% / 95% / 99.7% |
-| Binomial probability | \(P(X=k)=\binom nkp^k(1-p)^{n-k}\) |
-| Binomial mean | \(np\) |
-| Binomial variance | \(np(1-p)\) |
-| Binomial SD | \(\sqrt{np(1-p)}\) |
-| Poisson probability | \(P(X=k)=\frac{e^{-\lambda}\lambda^k}{k!}\) |
-| Poisson mean | \(\lambda\) |
-| Poisson variance | \(\lambda\) |
-| Poisson SD | \(\sqrt{\lambda}\) |
+| Binomial probability | $P(X=k)=\binom nkp^k(1-p)^{n-k}$ |
+| Binomial mean | $np$ |
+| Binomial variance | $np(1-p)$ |
+| Binomial SD | $\sqrt{np(1-p)}$ |
+| Poisson probability | $P(X=k)=\frac{e^{-\lambda}\lambda^k}{k!}$ |
+| Poisson mean | $\lambda$ |
+| Poisson variance | $\lambda$ |
+| Poisson SD | $\sqrt{\lambda}$ |
 
 ---
 
@@ -1463,14 +1463,14 @@ Try to solve these without looking at the answers first.
 4. 28
 5. Population variance = 50; population SD ≈ 7.071
 6. Median depends on the middle position, not the magnitude of an extreme observation.
-7. Population variance divides by \(N\); the usual unbiased sample variance divides by \(n-1\).
+7. Population variance divides by $N$; the usual unbiased sample variance divides by $n-1$.
 8. 85 to 115
 9. 0.375 (37.5%)
-10. \(5(0.1)(0.9)^4=0.32805\), or 32.805%
-11. \(e^{-3}3^2/2!\approx0.2240\), or 22.40%
+10. $5(0.1)(0.9)^4=0.32805$, or 32.805%
+11. $e^{-3}3^2/2!\approx0.2240$, or 22.40%
 12. Binomial
 13. Poisson
-14. Both equal \(\lambda\).
+14. Both equal $\lambda$.
 
 </details>
 
