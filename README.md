@@ -45,8 +45,8 @@ Each week is a group of rows: the week row is the heading, and the classes under
 | | 15 Nov 2026 | &nbsp;&nbsp;&nbsp;&nbsp; **Session 14: Time Series & Forecasting** | Autocorrelation, seasonality, ARIMA, trend analysis, moving averages, stationarity. Project: demand forecasting, anomaly detection | ⬜ Planned |
 | | 18 Nov 2026 | &nbsp;&nbsp;&nbsp;&nbsp; **Doubt-Clearing Session** | Questions from weekend classes, assignment debugging, revision, project support | ⬜ Planned |
 | **Week 8** | **21–22 Nov 2026** | | | |
-| | 21 Nov 2026 | &nbsp;&nbsp;&nbsp;&nbsp; **Session 15: NumPy I: Arrays & Operations** | Array creation, indexing, slicing, vectorization, broadcasting, shape manipulation, ufuncs. Project: efficient numerical computing, batch processing | ⬜ Planned |
-| | 22 Nov 2026 | &nbsp;&nbsp;&nbsp;&nbsp; **Session 16: NumPy II: Advanced Operations** | Linear algebra operations, statistical functions, random sampling, numerical stability. Project: efficient feature engineering | ⬜ Planned |
+| ✅ | 21 Nov 2026 | &nbsp;&nbsp;&nbsp;&nbsp; **Session 15: Probability and Statistics** |  | 🟩 ✅ Completed |
+| ✅ | 22 Nov 2026 | &nbsp;&nbsp;&nbsp;&nbsp; **Session 16: Probability and Statistics** |  | 🟩 ✅ Completed  |
 | | 25 Nov 2026 | &nbsp;&nbsp;&nbsp;&nbsp; **Doubt-Clearing Session** | Questions from weekend classes, assignment debugging, revision, project support | ⬜ Planned |
 | **Week 9** | **28–29 Nov 2026** | | | |
 | | 28 Nov 2026 | &nbsp;&nbsp;&nbsp;&nbsp; **Session 17: Pandas I: DataFrames & Manipulation** | DataFrames, Series, reading CSV/Parquet/SQL, indexing (loc/iloc), filtering, groupby, joins. Project: ETL pipelines, data exploration, merging datasets | ⬜ Planned |
