@@ -1016,8 +1016,10 @@ P(X=2)=10\times0.25\times0.125
 $$
 
 $$
-\boxed{P(X=2)=0.3125=31.25\%}
+\boxed{P(X=2)=0.3125}
 $$
+
+That is **31.25%**.
 
 ### Graph — binomial distribution
 
@@ -1171,8 +1173,10 @@ P(X=2)\approx8(0.0183156)
 $$
 
 $$
-\boxed{P(X=2)\approx0.1465=14.65\%}
+\boxed{P(X=2)\approx0.1465}
 $$
+
+That is about **14.65%**.
 
 ### Graph — Poisson distribution
 
